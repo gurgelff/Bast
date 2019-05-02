@@ -1,0 +1,18 @@
+<CoordinateSystem> { Z-up } 
+  <Group> kernel {
+    <Tag> host { localhost }
+    <Tag> port { 8080 }
+    <Tag> ping { 0 }
+    <Tag> connection {  }
+    <Tag> players { 0 }
+    <Tag> size { 0 }
+    <Transform> {
+      <Matrix4> {
+        1.0 0.0 0.0 0.0 
+        0.0 1.0 0.0 0.0 
+        0.0 0.0 1.0 0.0 
+        -2.99232816696167 6.5487823486328125 8.199015617370605 1.0 
+      }
+    }
+    
+  }
